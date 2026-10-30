@@ -1,0 +1,23 @@
+# React
+frontend/node_modules/
+frontend/dist/
+
+# Spring Boot
+backend/target/
+*.class
+
+# Environment files
+.env
+.env.*
+application-secret.properties
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
